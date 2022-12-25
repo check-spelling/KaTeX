@@ -1,0 +1,8 @@
+github
+https
+inkscape
+katex
+quicklatex
+sourceforge
+ssh
+ubuntu

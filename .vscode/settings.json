@@ -7,4 +7,5 @@
     "**/.yarn": true,
     "**/.pnp.*": true
   },
+  "sarif-viewer.connectToGithubCodeScanning": "on",
 }
